@@ -1,2 +1,2 @@
 # EduSphere
-DBMS - Shivam bhai
+DBMS
